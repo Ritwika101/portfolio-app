@@ -1,0 +1,42 @@
+/* Dark mode styles */
+body {
+    background-color: #121212;
+    color: white;
+}
+
+.stApp {
+    background-color: #121212;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+    color: white;
+}
+
+/* Style sidebar */
+[data-testid="stSidebar"] {
+    background-color: #1e1e1e;
+}
+
+/* Style widgets and inputs */
+.stButton > button {
+    background-color: #bb86fc;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.stTextInput, .stTextArea, .stSelectbox, .stNumberInput, .stDateInput {
+    background-color: #333;
+    color: white;
+}
+
+/* Customize links */
+a {
+    color: #bb86fc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
