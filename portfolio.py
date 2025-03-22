@@ -36,7 +36,7 @@ def home():
     st.image(image, width=250)
     
     st.markdown("### Connect with me:")
-    st.write("[GitHub](https://github.com/Ritwika101) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://ritwika-movie-recommendation.streamlit.app/)")
+    st.write("[GitHub](https://github.com/Ritwika101) | [LinkedIn](https://linkedin.com/in/your-profile)")
 
 def skills():
     st.title("🛠 Skills")
