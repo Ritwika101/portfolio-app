@@ -173,9 +173,8 @@ def projects():
     st.markdown('</div>', unsafe_allow_html=True)
 
 def about():
-    st.title("📖 About Me")
-    st.write("I am passionate about backend development, distributed systems, and solving complex engineering problems.")
-    st.write("Currently working at Arcesium, I specialize in Java, Node.js, and system optimizations.")
+    st.title("📖 Somethings more about me")
+    st.write("Currently working at Arcesium, working on Java, Spring, SQL, AWS, Python.")
     
     st.markdown("### 📚 Research")
     st.write("- **IEEE Paper:** [Automation of Skin Cancer Detection with Image Processing Using Efficient and Lightweight CNN Models](https://ieeexplore.ieee.org/abstract/document/10265957)")
@@ -183,7 +182,7 @@ def about():
     st.markdown("### 🏆 Achievements")
     st.write("- **Vice Chancellor’s Award** – Rank 1 in KIIT CSE 2022")
     st.write("- **Finalist** – GE Healthcare Precision Challenge")
-    st.write("- **Google Code Jam I/O 2022** – 896th place")
+
 
 if __name__ == "__main__":
     main()
