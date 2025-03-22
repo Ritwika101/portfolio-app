@@ -108,7 +108,7 @@ def projects():
     projects = [
         ("Payment Management System", "https://github-readme-stats.vercel.app/api/pin/?username=Ritwika101&repo=Payment-management&theme=dark", "https://github.com/Ritwika101/Payment-management"),
         ("Skin Cancer Detection App", "https://github-readme-stats.vercel.app/api/pin/?username=Ritwika101&repo=skin-cancer-detection-webapp&theme=dark", "https://github.com/Ritwika101/skin-cancer-detection-webapp"),
-        ("Movie Recommendation System", "https://github-readme-stats.vercel.app/api/pin/?username=Ritwika101&repo=movie-recommendation-app&theme=dark", "https://ritwika-movie-recommendation.streamlit.app/"),
+        ("Movie Recommendation System", "https://github-readme-stats.vercel.app/api/pin/?username=Ritwika101&repo=movie-recommendation-app&theme=dark", "https://github.com/Ritwika101/movie-recommendation-app"),
         ("Minimizing Space for Disk Servers", "https://github-readme-stats.vercel.app/api/pin/?username=Ritwika101&repo=Minimizing-space-requirement-for-disk-server&theme=dark", "https://github.com/Ritwika101/Minimizing-space-requirement-for-disk-server")
     ]
 
